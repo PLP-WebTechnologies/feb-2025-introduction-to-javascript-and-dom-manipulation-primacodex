@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  background-color: #f9f9f9;
+}
+
+button {
+  margin: 10px 5px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+#dynamic-area div {
+  margin-top: 10px;
+  background-color: lightblue;
+  padding: 10px;
+  border: 1px solid #007bff;
+}
